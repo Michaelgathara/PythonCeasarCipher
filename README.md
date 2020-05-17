@@ -19,5 +19,6 @@ You can learn more about Ceaser Ciphers [here](https://www.wikiwand.com/en/Caesa
 * Cipher simple text when non-sensitive info is available
 * Communicate with friends in a discrete way
 ## Sample Usage Images
-
+![Mike Ceaser Cipher](https://michaelgathara.com/images/ceaserCipherMike.PNG)
+![Cool Ceaser Cipher](https://michaelgathara.com/images/ceaserCipherCool.PNG)
 
